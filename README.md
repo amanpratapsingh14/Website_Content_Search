@@ -144,7 +144,3 @@ You can view the project presentation slide deck here:
 [Google Slides: Website Content Search Presentation](https://docs.google.com/presentation/d/1zhYHtqTI4tTAJc8IK_jeijgU3tfa7WXUFqtD2t6gvIQ/edit?usp=sharing)
 
 ---
-
-## Demo Screenshot
-
----
