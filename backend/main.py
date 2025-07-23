@@ -4,9 +4,9 @@ from typing import List
 import requests
 import hashlib
 
-from .models import SearchRequest, SearchResult
-from .html_utils import chunk_html_blocks
-from .weaviate_utils import (
+from models import SearchRequest, SearchResult
+from html_utils import chunk_html_blocks
+from weaviate_utils import (
     index_chunks_in_weaviate,
     search_chunks_in_weaviate,
     WEAVIATE_AVAILABLE,
